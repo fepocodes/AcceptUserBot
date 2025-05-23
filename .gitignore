@@ -14,5 +14,9 @@
 *.avi
 *.webm
 
+*.mp3
+
+*.srt
+
 # 📁 Ignore raw folder
 vid/
