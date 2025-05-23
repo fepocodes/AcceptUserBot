@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:07,000
+This project takes a background video and overlays a sequence of images like a slideshow.
+
+2
+00:00:07,000 --> 00:00:13,720
+Each image is centered, shown for 5 seconds and resized if it's too small without distortion.
+
+3
+00:00:13,720 --> 00:00:18,559
+You can also add high quality captions or subtitles automatically synchronized with
+
+4
+00:00:18,559 --> 00:00:20,199
+an audio file.
+
+5
+00:00:20,199 --> 00:00:26,359
+The output is a professional 1920x1080 video with enhanced quality and optional background
+
+6
+00:00:26,359 --> 00:00:27,359
+music.
+
+7
+00:00:27,359 --> 00:00:29,719
+It's ideal for promotional content.
+
+8
+00:00:29,719 --> 00:00:33,839
+You can use it for storytelling or converting static visuals into dynamic videos.
+
